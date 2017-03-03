@@ -1,0 +1,13 @@
+h1{
+	color: red;
+	text-align: center;
+}
+
+body {
+	color: white;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/c3/65/b3/c365b36fbf5a24a35afedeafd7124231.jpg);
+}
+li{
+	list-style: none;
+	display: inline;
+}
